@@ -1,0 +1,3 @@
+[submodule "ov_model"]
+	path = ov_model
+	url = https://github.com/kaityo256/ov_model.git
