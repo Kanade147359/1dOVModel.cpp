@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "1dovmodel"
+version = "0.1.0"
+description = ""
+authors = ["kanade147359 <kanade147359@keio.jp>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+matplotlib = "^3.9.0"
+numpy = "^2.0.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
